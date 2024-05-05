@@ -1,0 +1,118 @@
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\Helping Hand.dll.config
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\Helping Hand.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\Helping Hand.pdb
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\csc.exe
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\csc.exe.config
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\csc.rsp
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\csi.exe
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\csi.exe.config
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\csi.rsp
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.AppContext.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.Console.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.IO.Compression.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.Net.Http.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.Net.Sockets.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.ValueTuple.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.Xml.XPath.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\vbc.exe
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\vbc.exe.config
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\vbc.rsp
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\VBCSCompiler.exe
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\obj\Debug\Helping Hand.csproj.AssemblyReference.cache
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\obj\Debug\Helping Hand.csproj.CoreCompileInputs.cache
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\obj\Debug\Helping Hand.csproj.CopyComplete
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\obj\Debug\Helping Hand.dll
+C:\Users\krish\Downloads\Helping Hand\Helping Hand\obj\Debug\Helping Hand.pdb
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\Helping Hand.dll.config
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\Helping Hand.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\Helping Hand.pdb
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\csc.exe
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\csc.exe.config
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\csc.rsp
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\csi.exe
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\csi.exe.config
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\csi.rsp
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.AppContext.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.Console.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.IO.Compression.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.Net.Http.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.Net.Sockets.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.ValueTuple.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.Xml.XPath.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\vbc.exe
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\vbc.exe.config
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\vbc.rsp
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\VBCSCompiler.exe
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\obj\Debug\Helping Hand.csproj.AssemblyReference.cache
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\obj\Debug\Helping Hand.csproj.CoreCompileInputs.cache
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\obj\Debug\Helping Hand.csproj.CopyComplete
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\obj\Debug\Helping Hand.dll
+C:\Users\krish\OneDrive\Desktop\Helping Hand\Helping Hand\obj\Debug\Helping Hand.pdb
